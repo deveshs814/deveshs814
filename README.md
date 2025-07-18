@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Full stack Projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/deveshs814](https://github.com/deveshs814)
+- 👨‍💻 All of my projects are available at [https://portfolio-ok4e.vercel.app/)
 
 - 💬 Ask me about **React, Node , MongoDB, Express**
 
